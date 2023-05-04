@@ -3,8 +3,8 @@
    <br /><sub><b>Pierre bellec</b></sub>
 </a>
 
-Seungho Choe
-PhD student at TMU
-MSc in Applied Computer Science
-Biomedical Engineering
-IAMLAB
+Seungho Choe  
+PhD student at TMU  
+MSc in Applied Computer Science  
+Biomedical Engineering  
+IAMLAB  
