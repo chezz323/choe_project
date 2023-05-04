@@ -1,6 +1,6 @@
 <a href="https://github.com/pbellec">
-   <img src="https://avatars.githubusercontent.com/u/1670887?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>Pierre bellec</b></sub>
+   <img src="https://avatars.githubusercontent.com/u/55457315?s=400&u=84662c632435c838aa9f8979a2fd0aa172a9930b&v=4" width="100px;" alt=""/>
+   <br /><sub><b>Seungho Choe</b></sub>
 </a>
 
 Seungho Choe  
